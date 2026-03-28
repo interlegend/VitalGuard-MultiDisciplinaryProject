@@ -1,0 +1,5 @@
+{
+  "name": "VitalGuard",
+  "description": "IoT smart wearable device dashboard for real-time fall detection and heart monitoring.",
+  "requestFramePermissions": []
+}
